@@ -1,0 +1,6 @@
+column_name,size_bytes
+logs_bloom,1792000256
+sha3_uncles,224000032
+transactions_root,224000032
+state_root,224000032
+receipts_root,224000032
